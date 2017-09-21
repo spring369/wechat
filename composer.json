@@ -1,0 +1,14 @@
+{
+    "name": "spring369/wechat",
+    "description": "wechat dev",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "luming",
+            "email": "374551703@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
